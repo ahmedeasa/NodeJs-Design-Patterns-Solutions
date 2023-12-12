@@ -1,0 +1,14 @@
+{
+  "name": "ex4.2",
+  "version": "1.0.0",
+  "description": "nodejs design patterns Ch4 Ex 4.2 solution",
+  "main": "ex4.2.js",
+  "scripts": {
+    "test": "node ex4.2.js"
+  },
+  "author": "Ahmed Eisa",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.5"
+  }
+}
