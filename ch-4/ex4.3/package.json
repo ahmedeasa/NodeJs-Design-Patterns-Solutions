@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "name": "ex4.2",
+  "version": "1.0.0",
+  "description": "nodejs design patterns Ch4 Ex 4.3 solution",
+  "main": "recursiveFind",
+  "scripts": {
+    "test": "node recursiveFind.js"
+  },
+  "author": "Ahmed Eisa",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.5"
+  }
+}
