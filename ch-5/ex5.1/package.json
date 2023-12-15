@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "name": "ex5.1",
+  "version": "1.0.0",
+  "description": "Nodejs Design patterns book exercise 5.1 solution",
+  "main": "promise_all.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahmed M. Eisa",
+  "license": "GPL-3.0"
+}
